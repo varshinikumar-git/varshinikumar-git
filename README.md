@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**varshinikumar-git/varshinikumar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Logavarshini 
 
-Here are some ideas to get you started:
+B.Tech Robotics and Artificial Intelligence  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Generative AI  
+- Deep Reinforcement Learning  
+- Computer Vision  
+
+## Tech Stack
+- Python, OpenCV, PyTorch  
+- NumPy, Matplotlib  
+
+## Connect
+- GitHub: https://github.com/varshinikumar-git
